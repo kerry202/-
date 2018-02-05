@@ -10,7 +10,9 @@ import android.widget.TextView;
 import me.drakeet.multitype.ItemViewBinder;
 
 /**
- * Created by Administrator on 2017/12/23 0023.
+ * @author yangbo
+ * @since 2018/2/5
+ * @mail 903023560@qq.com
  */
 public class SingleItemViewBinder extends ItemViewBinder<SingleItem, SingleItemViewBinder.ViewHolder> {
 

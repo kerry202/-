@@ -1,8 +1,5 @@
 package com.amy.monthweekmaterialcalendarview;
 
-/**
- * Created by Administrator on 2018/1/3 0003.
- */
 
 import android.animation.Animator;
 import android.animation.ValueAnimator;
@@ -19,8 +16,9 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /**
- * Created by Ulez on 2016/11/24.
- * Email：lcy1532110757@gmail.com
+ * @author yangbo
+ * @since 2018/2/5
+ * @mail 903023560@qq.com
  */
 public class DropIndicator extends ViewGroup {
     private int circleColor;

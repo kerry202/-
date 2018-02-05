@@ -12,7 +12,9 @@ import com.prolificinteractive.materialcalendarview.MaterialCalendarView;
 import java.util.Date;
 
 /**
- * Decorate a day by making the text big and bold
+ * @author yangbo
+ * @since 2018/2/5
+ * @mail 903023560@qq.com
  */
 public class OneDayDecorator implements DayViewDecorator {
 

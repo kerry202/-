@@ -6,7 +6,11 @@ import android.support.v7.app.AppCompatActivity;
 
 import butterknife.ButterKnife;
 import butterknife.OnClick;
-
+/**
+ * @author yangbo
+ * @since 2018/2/5
+ * @mail 903023560@qq.com
+ */
 public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {

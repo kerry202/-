@@ -4,7 +4,9 @@ import android.content.Context;
 import android.support.v7.widget.LinearLayoutManager;
 
 /**
- * Created by dickliu on 2018/1/3.
+ * @author yangbo
+ * @since 2018/2/5
+ * @mail 903023560@qq.com
  */
 
 public class CustomLinearLayoutManager extends LinearLayoutManager {

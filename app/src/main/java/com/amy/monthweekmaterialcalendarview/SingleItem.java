@@ -1,7 +1,9 @@
 package com.amy.monthweekmaterialcalendarview;
 
 /**
- * Created by Administrator on 2017/12/23 0023.
+ * @author yangbo
+ * @since 2018/2/5
+ * @mail 903023560@qq.com
  */
 public class SingleItem {
 

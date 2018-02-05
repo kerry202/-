@@ -11,7 +11,9 @@ import com.prolificinteractive.materialcalendarview.DayViewFacade;
 import java.util.Calendar;
 
 /**
- * Highlight Saturdays and Sundays with a background
+ * @author yangbo
+ * @since 2018/2/5
+ * @mail 903023560@qq.com
  */
 public class HighlightWeekendsDecorator implements DayViewDecorator {
 

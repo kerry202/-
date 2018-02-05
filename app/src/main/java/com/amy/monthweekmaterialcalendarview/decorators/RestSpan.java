@@ -11,9 +11,10 @@ import android.text.style.LineBackgroundSpan;
 import com.amy.monthweekmaterialcalendarview.R;
 
 /**
- * Created by Administrator on 2018/2/4 0004.
+ * @author yangbo
+ * @since 2018/2/5
+ * @mail 903023560@qq.com
  */
-
 public class RestSpan implements LineBackgroundSpan {
     private Context context;
     public RestSpan(Context context) {

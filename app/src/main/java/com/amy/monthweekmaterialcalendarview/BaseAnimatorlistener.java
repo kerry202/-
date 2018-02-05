@@ -3,9 +3,10 @@ package com.amy.monthweekmaterialcalendarview;
 import android.animation.Animator;
 
 /**
- * Created by dickliu on 2018/1/11.
+ * @author yangbo
+ * @since 2018/2/5
+ * @mail 903023560@qq.com
  */
-
 public interface BaseAnimatorlistener {
     void onAnimationStart(Animator animator);
 

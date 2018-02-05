@@ -7,9 +7,10 @@ import com.prolificinteractive.materialcalendarview.spans.DotSpan;
 
 import java.util.Collection;
 import java.util.HashSet;
-
 /**
- * Created by dickliu on 2017/4/26.
+ * @author yangbo
+ * @since 2018/2/5
+ * @mail 903023560@qq.com
  */
 
 public class EventDecorator implements DayViewDecorator {

@@ -34,7 +34,9 @@ import me.drakeet.multitype.Items;
 import me.drakeet.multitype.MultiTypeAdapter;
 
 /**
- * Created by Administrator on 2017/4/19 0019.
+ * @author yangbo
+ * @since 2018/2/5
+ * @mail 903023560@qq.com
  */
 public class CalendarSmoothActivity extends AppCompatActivity {
     @BindView(R.id.slidelayout)

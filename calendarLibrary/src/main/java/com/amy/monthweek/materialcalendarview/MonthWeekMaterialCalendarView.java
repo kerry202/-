@@ -29,7 +29,9 @@ import com.prolificinteractive.materialcalendarview.R;
 import java.util.Calendar;
 
 /**
- * Created by amy .
+ * @author yangbo
+ * @since 2018/2/5
+ * @mail 903023560@qq.com
  * 整体页面布局是2个calendarView
  * 一个是日历视图mCalendarViewMonth ，日历视图切换为周模式的mCalendarViewWeek，
  */

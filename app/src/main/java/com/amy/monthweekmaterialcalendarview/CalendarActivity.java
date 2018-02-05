@@ -34,9 +34,10 @@ import butterknife.ButterKnife;
 import butterknife.OnClick;
 import me.drakeet.multitype.Items;
 import me.drakeet.multitype.MultiTypeAdapter;
-
 /**
- * Created by Administrator on 2018/1/4 0004.
+ * @author yangbo
+ * @since 2018/2/5
+ * @mail 903023560@qq.com
  */
 
 public class CalendarActivity extends AppCompatActivity {

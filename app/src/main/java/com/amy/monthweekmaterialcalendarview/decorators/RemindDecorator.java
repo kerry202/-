@@ -9,7 +9,9 @@ import com.prolificinteractive.materialcalendarview.DayViewFacade;
 import java.util.Calendar;
 
 /**
- * Created by Administrator on 2018/2/4 0004.
+ * @author yangbo
+ * @since 2018/2/5
+ * @mail 903023560@qq.com
  */
 
 public class RemindDecorator implements DayViewDecorator {
